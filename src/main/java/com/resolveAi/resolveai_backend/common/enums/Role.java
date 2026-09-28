@@ -1,0 +1,1 @@
+package com.resolveAi.resolveai_backend.common.enums;public enum Role { OWNER, ADMIN, MANAGER, OPERATOR, VIEWER }

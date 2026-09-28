@@ -1,0 +1,1 @@
+package com.resolveAi.resolveai_backend.common.enums;public enum ImportJobStatus {PENDING, PROCESSING, COMPLETED, FAILED}

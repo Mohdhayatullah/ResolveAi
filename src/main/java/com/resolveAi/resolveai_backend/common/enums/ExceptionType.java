@@ -1,0 +1,1 @@
+package com.resolveAi.resolveai_backend.common.enums;public enum ExceptionType {    PAYMENT_INVOICE_MISMATCH,    ORDER_INVOICE_MISMATCH,    ORDER_DELIVERY_MISMATCH,    DUPLICATE_TRANSACTION,    MISSING_DOCUMENT}

@@ -1,0 +1,1 @@
+package com.resolveAi.resolveai_backend.common.enums;public enum ActionType {    GENERATE_EMAIL_DRAFT,    CREATE_TASK,    SEND_REMINDER,    FLAG_FOR_INVESTIGATION}

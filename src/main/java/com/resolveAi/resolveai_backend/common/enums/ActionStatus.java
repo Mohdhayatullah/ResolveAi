@@ -1,0 +1,1 @@
+package com.resolveAi.resolveai_backend.common.enums;public enum ActionStatus {    PROPOSED,    // AI suggested this action    APPROVED,    // Human approved it    EXECUTING,   // Currently running    COMPLETED,   // Done successfully    FAILED       // Execution failed}

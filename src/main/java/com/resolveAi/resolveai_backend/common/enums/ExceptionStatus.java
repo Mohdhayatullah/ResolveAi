@@ -1,0 +1,1 @@
+package com.resolveAi.resolveai_backend.common.enums;public enum ExceptionStatus {    DETECTED, AI_ANALYZING, READY_FOR_REVIEW,    UNDER_REVIEW, APPROVED, ACTION_EXECUTED, RESOLVED, DISMISSED}
